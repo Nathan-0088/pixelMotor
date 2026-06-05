@@ -1,0 +1,8 @@
+Background:  #F4F4F4  (cinza claro)
+Surface:     #FFFFFF  (cards)
+Primary:     #1E3A8A  (azul escuro)
+Secondary:   #E5E7EB  (bordas)
+Text:        #111827  (quase preto)
+Accent:      #3B82F6  (azul vivo — hover)
+
+@import "tailwindcss";
